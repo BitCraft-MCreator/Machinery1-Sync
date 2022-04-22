@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Machinery",
+    "icon": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "showSearch": true
+  }
+}

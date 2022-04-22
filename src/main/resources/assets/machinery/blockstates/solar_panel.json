@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "machinery:block/solar_panel"
+    },
+    "facing=east": {
+      "model": "machinery:block/solar_panel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "machinery:block/solar_panel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "machinery:block/solar_panel",
+      "y": 270
+    }
+  }
+}

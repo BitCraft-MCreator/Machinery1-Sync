@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinery:blocks/energyswordfurnacesidey",
+    "up": "machinery:blocks/energyswordfurnacesidey",
+    "north": "machinery:blocks/energyswordfurnacesidex",
+    "east": "machinery:blocks/energyswordfurnacesidey",
+    "south": "machinery:blocks/energyswordfurnacesidey",
+    "west": "machinery:blocks/energyswordfurnacesidey",
+    "particle": "machinery:blocks/energyswordfurnacesidey"
+  }
+}

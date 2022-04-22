@@ -1,0 +1,8 @@
+{
+  "parent": "machinery:custom/solar_panel",
+  "textures": {
+    "all": "machinery:blocks/solarpanel",
+    "particle": "machinery:blocks/solarpanel",
+    "0": "machinery:blocks/solarpanel"
+  }
+}

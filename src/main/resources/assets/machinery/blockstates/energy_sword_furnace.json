@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "machinery:block/energy_sword_furnace"
+    },
+    "facing=east": {
+      "model": "machinery:block/energy_sword_furnace",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "machinery:block/energy_sword_furnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "machinery:block/energy_sword_furnace",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "machinery:block/energy_sword_furnace",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "machinery:block/energy_sword_furnace",
+      "x": 90
+    }
+  }
+}
